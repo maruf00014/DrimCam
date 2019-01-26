@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DrimCam</string>
+    <string name="permission_title">Perrmission Required!</string>
+    <string name="ok_button">Ok</string>
+</resources>
